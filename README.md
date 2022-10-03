@@ -1,2 +1,1 @@
-# B.E.V
-tp del colegio
+tp para ser evaluados en el proyecto de saberes
